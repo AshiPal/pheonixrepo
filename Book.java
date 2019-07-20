@@ -17,4 +17,7 @@ public class Book
 		this.title=title;
 	}
 	
+	public void setTitle(String author){
+		this.author=author;
+	}
 }
