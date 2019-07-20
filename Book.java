@@ -20,4 +20,6 @@ public class Book
 	public void setTitle(String author){
 		this.author=author;
 	}
+
+public void test();
 }
